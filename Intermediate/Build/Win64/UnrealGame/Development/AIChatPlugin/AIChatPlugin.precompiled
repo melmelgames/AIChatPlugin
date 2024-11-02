@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AIChatPlugin\\Module.AIChatPlugin.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AIChatPlugin\\AIChatPlugin.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\AIChatPlugin\\AIChatPluginBPLibrary.cpp.obj"
+	]
+}
